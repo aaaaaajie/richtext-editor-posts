@@ -6,4 +6,4 @@
 
 ## 目录
 
-1. Web 剪贴板
+1. [Web 剪贴板](https://github.com/aaaaaajie/richtext-editor-posts/issues/2)
